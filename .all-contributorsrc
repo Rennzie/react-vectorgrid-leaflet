@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Rennzie",
+      "name": "Sean Rennie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32762874?v=4",
+      "profile": "http://www.seanrennie.com",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "react-leaflet-google",
+  "projectOwner": "Rennzie",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
